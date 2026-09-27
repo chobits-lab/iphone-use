@@ -21,7 +21,7 @@ Step by step: [setup](skills/iphone-use/references/setup.md).
 ## Install
 
 ```bash
-git clone https://github.com/why920214-cmd/iphone-use.git
+git clone https://github.com/chobits-lab/iphone-use.git
 ```
 
 Codex:
