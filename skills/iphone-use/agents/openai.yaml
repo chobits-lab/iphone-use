@@ -1,0 +1,4 @@
+interface:
+  display_name: "iPhone Use"
+  short_description: "Use your iPhone from your Mac through iPhone Mirroring"
+  default_prompt: "Use $iphone-use to check my iPhone Mirroring connection, then do this on my phone: "
